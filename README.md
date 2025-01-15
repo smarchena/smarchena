@@ -7,7 +7,7 @@ Hi! I'm Santiago, Mechanical Engineer and a young programmer from Colombia, 27 y
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord,flutter&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord" />
   </a>
 </p>
 
