@@ -5,7 +5,12 @@ Hi! I'm Santiago, Mechanical Engineer and a young programmer from Colombia, 27 y
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord,flutter&perline=9)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord,flutter&perline=7" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord,flutter&perline=7)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
