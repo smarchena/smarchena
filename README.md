@@ -1,7 +1,7 @@
 ## Hi there! My name is Santiago! 👋
 
 # 💫 About Me:
-Hi! I'm Santiago, Mechanical Engineer and a young programmer from Colombia, 27 years old, and deeply passionate about technology. I started my programming journey on my own and since then, I haven’t stopped learning. I specialize as a Full Stack Developer, although I have a special love for frontend and creating visually appealing and functional web experiences.<br><br>I'm a freelancer, which gives me the freedom to explore and get involved in all sorts of exciting projects. My goal is to keep learning, improving my skills, and standing out in every project I take on! I'm always eager to collaborate, learn from others, and contribute my best to every challenge.<br><br>If you're looking for someone with a strong desire to grow and build something amazing together, feel free to reach out. I’m ready for the next project!
+Hi! I'm Santiago, Mechanical Engineer and a young programmer from Colombia, 27 years old, and deeply passionate about technology. I started my programming journey on my own and since then, I haven’t stopped learning. I'm specializing as a Full Stack Developer, although I have a special love for frontend and creating visually appealing and functional web experiences.<br><br>I'm a freelancer, which gives me the freedom to explore and get involved in all sorts of exciting projects. My goal is to keep learning, improving my skills, and standing out in every project I take on! I'm always eager to collaborate, learn from others, and contribute my best to every challenge.<br><br>If you're looking for someone with a strong desire to grow and build something amazing together, feel free to reach out. I’m ready for the next project!
 
 
 # 💻 Tech Stack:
