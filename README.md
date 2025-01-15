@@ -6,13 +6,14 @@ Hi! I'm Santiago, Mechanical Engineer and a young programmer from Colombia, 27 y
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=9)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=smarchena&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
