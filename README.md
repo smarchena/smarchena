@@ -9,10 +9,7 @@ Hi! I'm Santiago, Mechanical Engineer and a young programmer deeply passionate a
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord" />
   </a>
-</p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="santiagomarchena" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/santiagomarchena?trk=profile-badge">Santiago Marchena</a></div>
+</p>              
               
 
 # 📊 GitHub Stats:
