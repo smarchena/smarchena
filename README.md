@@ -11,6 +11,10 @@ Hi! I'm Santiago, Mechanical Engineer and a young programmer deeply passionate a
   </a>
 </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="santiagomarchena" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/santiagomarchena?trk=profile-badge">Santiago Marchena</a></div>
+              
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
