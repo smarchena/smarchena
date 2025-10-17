@@ -84,10 +84,11 @@ Currently, I work as a **freelancer**, which allows me taking part in diverse an
 ## 📫 Reach me at:
 <p align="center">
   <a href="https://www.linkedin.com/in/santiagomarchena" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130" style="transition: transform 0.3s;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" style="transition: transform 0.3s;"/>
   </a>
-  <a href="mailto:smarchenab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" style="transition: transform 0.3s;"/>
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=smarchenab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" style="transition: transform 0.3s;"/>
   </a>
 </p>
 
