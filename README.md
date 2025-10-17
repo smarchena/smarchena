@@ -20,8 +20,6 @@ Currently, I work as a **freelancer**, which allows me taking part in diverse an
   Portfolio | Freelance Developer | UI/UX Optimization | Web Performance
 -->
 
-
-
 ## 💻 Tech Stack
 <p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
@@ -30,16 +28,12 @@ Currently, I work as a **freelancer**, which allows me taking part in diverse an
   </a>
 </p>
 
-
-
 ## 🚀 Current Focus
 - 🌱 Strengthening my **backend development** foundation by learning **Node.js** and deepening my understanding of **MongoDB**
 - 🌐 Preparing to specialize in **Angular** to build dynamic and scalable frontend applications
 - 🧩 Enhancing my skills in **TypeScript** and **modern JavaScript** for cleaner, more maintainable code
 - 🛠 Developing personal projects that combine **UI/UX design**, **performance optimization**, and **real-world problem solving**
 - 🤝 Collaborating on **freelance and open-source projects** to gain hands-on experience and grow as a developer
-
-
 
 ## 🔥 What I'm Working On
 - 🚀 Building a full-stack app using **Node.js**, **MongoDB**, and soon **Angular**
@@ -74,20 +68,17 @@ Currently, I work as a **freelancer**, which allows me taking part in diverse an
 
 ## 🧮 Contribution Summary
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=smarchena&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=smarchena&theme=transparent&background=0D1117&ring=9370DB&fire=FFD700&currStreakLabel=32CD32&sideLabels=32CD32&sideNums=FFD700&currStreakNum=FFD700&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smarchena&theme=radical" />
 </p>
 
-
-
 ## 📊 GitHub Stats
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=smarchena&show_icons=true&theme=radical&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&layout=compact&theme=radical&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smarchena&show_icons=true&theme=transparent&bg_color=0D1117&title_color=32CD32&text_color=FFFFFF&icon_color=FFD700&border_color=9370DB&ring_color=9370DB&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&layout=compact&theme=transparent&bg_color=0D1117&title_color=32CD32&text_color=FFFFFF&icon_color=FFD700&border_color=9370DB&hide_border=false" height="180"/>
 </div>
-
 
 
 ## 📫 Reach me at:
