@@ -1,25 +1,111 @@
-## Hi there! My name is Santiago! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Santiago%20Marchena%20👨‍💻&fontSize=40&fontAlignY=35&desc=Mechanical%20Engineer%20|%20Full%20Stack%20Developer%20|%20Frontend%20Enthusiast&descAlignY=55&descAlign=50" />
+</p>
 
-# 💫 About Me:
-Hi! I'm Santiago, Mechanical Engineer and young programmer deeply passionate about technology and continous learning. I started my programming journey on my own and now I'm specializing as a Full Stack Developer, although I have a special love for frontend and creating visually appealing and functional web experiences. I'm interested in the convergence of engineering, innovation, and solution development by implementing logic and creativity. <br><br> I'm a freelancer, which gives me the freedom to explore and get involved in all sorts of exciting projects. My goal is to keep learning, improving my skills, and standing out in every project I take on! I'm always eager to collaborate, learn from others, and contribute my best to every challenge.<br><br>I’m ready for the next project!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F5E427&center=true&vCenter=true&width=700&lines=Hi,+I'm+Santiago+Marchena👋" />
+</p>
 
 
-# 💻 Tech Stack:
+## 🧠 About Me
+I'm a **Mechanical Engineer** turned **Full Stack Developer** passionate about technology, design, problem-solving and continuous learning.  
+I love merging **logic and creativity** to craft web experiences that are both functional and visually appealing.  
+
+Currently, I work as a **freelancer**, which allows me taking part in diverse and exciting projects that challenge me to grow as a developer appealing.  
+
+> 💡 My goal: keep improving, building meaningful projects, and standing out with clean, efficient code.
+
+<!-- 
+  Santiago Marchena | Full-Stack Developer | Node.js, Angular, TypeScript, MongoDB
+  Portfolio | Freelance Developer | UI/UX Optimization | Web Performance
+-->
+
+
+
+## 💻 Tech Stack
+<p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,nodejs,py,vscode,angular,discord" />
+    <img src="https://skillicons.dev/icons?i=js,angular,react,nodejs,mongodb,html,css,bootstrap,py,git,github,figma,vscode" />
   </a>
-</p>              
-              
+</p>
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smarchena&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Current Focus
+- 🌱 Strengthening my **backend development** foundation by learning **Node.js** and deepening my understanding of **MongoDB**
+- 🌐 Preparing to specialize in **Angular** to build dynamic and scalable frontend applications
+- 🧩 Enhancing my skills in **TypeScript** and **modern JavaScript** for cleaner, more maintainable code
+- 🛠 Developing personal projects that combine **UI/UX design**, **performance optimization**, and **real-world problem solving**
+- 🤝 Collaborating on **freelance and open-source projects** to gain hands-on experience and grow as a developer
+
+
+
+## 🔥 What I'm Working On
+- 🚀 Building a full-stack app using **Node.js**, **MongoDB**, and soon **Angular**
+- 🎨 Designing clean, responsive interfaces to improve user experiences
+- 🧠 Expanding my portfolio with real-world projects and freelance work
+
+<div align="center">
+
+<table style="background-color:#1a1a1a;border-radius:10px;padding:10px;">
+<tr>
+  <td align="center" width="250">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
+  <b>MongoDB</b><br>
+  <sub>Learning data modeling and queries</sub>
+</td>
+<td align="center" width="250">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>
+  <b>Node.js</b><br>
+  <sub>Currently learning backend fundamentals</sub>
+</td>
+<td align="center" width="250">
+  <img src="https://skillicons.dev/icons?i=angular" width="60"/><br>
+  <b>Angular</b><br>
+  <sub>Next step: mastering frontend architecture</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=smarchena&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧮 Contribution Summary
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=smarchena&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smarchena&theme=radical" />
+</p>
+
+
+
+## 📊 GitHub Stats
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=smarchena&show_icons=true&theme=radical&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&layout=compact&theme=radical&hide_border=false" height="180"/>
+</div>
+
+
+
+## 📫 Reach me at:
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiagomarchena" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130" style="transition: transform 0.3s;"/>
+  </a>
+  <a href="mailto:smarchenab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" style="transition: transform 0.3s;"/>
+  </a>
+</p>
+
+---
+<p align="center">
+  💡 <i>"Building logic with creativity — one project at a time."</i>  
+  <br>✨ <b>Santiago Marchena</b> | Full Stack Developer
+</p>
+
+
+
+
