@@ -32,7 +32,7 @@ Currently, I work as a **freelancer**, with personal projects where I combine:
 <p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,mysql,docker,jquery,npm,html,css,bootstrap,py,git,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,mysql,docker,jquery,npm,vue,java,spring,dotnet,html,css,bootstrap,py,git,github,figma,vscode,bash,materialui,postman,ai&perline=11" />
   </a>
 </p>
 
@@ -102,13 +102,6 @@ Currently, I work as a **freelancer**, with personal projects where I combine:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smarchena&theme=radical" />
 </p>
-
-## 📊 GitHub Stats
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=smarchena&show_icons=true&theme=transparent&bg_color=0D1117&title_color=32CD32&text_color=FFFFFF&icon_color=FFD700&border_color=9370DB&ring_color=9370DB&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarchena&layout=compact&theme=transparent&bg_color=0D1117&title_color=32CD32&text_color=FFFFFF&icon_color=FFD700&border_color=9370DB&hide_border=false" height="180"/>
-</div>
-
 
 ## 📫 Reach me at:
 <p align="center">
