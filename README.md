@@ -85,7 +85,7 @@ Currently, I work as a **freelancer**, with personal projects where I combine:
 </td>
 <td align="center" width="250">
   <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
-  <b>Angular</b><br>
+  <b>MongoDB</b><br>
   <sub>Database modeling, collections design, CRUD operations, and scalable backend data management.</sub>
 </td>
 </tr>
