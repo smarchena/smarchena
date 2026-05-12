@@ -32,7 +32,7 @@ Currently, I work as a **freelancer**, with personal projects where I combine:
 <p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,mysql,docker,jquery,html,css,bootstrap,py,git,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,mysql,docker,jquery,npm,html,css,bootstrap,py,git,github,figma,vscode" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Currently, I work as a **freelancer**, with personal projects where I combine:
 
 - 🚀 Building personal and freelance projects that combine business logic, clean code, performance, and real-world problem solving.
 
----
+
 
 ## 🔥 What I'm Working On
  - 🚀 Developing scalable fullstack applications using **Angular**, **Node.js**, and **MongoDB**, with a strong focus on clean architecture and maintainable code. 
