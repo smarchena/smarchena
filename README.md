@@ -9,10 +9,9 @@
 
 ## 🧠 About Me
 A **mechanical engineer** with over three years of experience in the IT sector, specializing in **full-stack software development.** 
-His background in **Mechanical Engineering** helped to develop strong and analytical thinking and problem-solving skills, which now applies to software development and product building. He possesses proven skills in technical leadership, problem-solving, and effective collaboration, ensuring successful project delivery. He is passionate about staying up-to-date on the latest technologies and contributing to the development of the technical community.
+His background in **Mechanical Engineering** helped to develop strong and analytical thinking and problem-solving skills, which now applies to software development and product building. He possesses proven skills in technical leadership, problem-solving, and effective collaboration, ensuring successful project delivery. He is passionate about staying up-to-date on the latest technologies and contributing to the development of the technical community, transforming ideas into functional and impactful digital experiences, technology, design, problem-solving and continuous learning.
 
-> Passionate about transforming ideas into functional and impactful digital experiences, technology, design, problem-solving and continuous learning.
-💡 My goal: keep improving, building meaningful projects, and standing out with clean, efficient code.
+> 💡 My goal: keep improving, building meaningful projects, and standing out with clean, efficient code.
 
 ## 💻 Tech Stack
 <p align="center"><b>Languages & Tools I use:</b></p>
