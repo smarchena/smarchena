@@ -8,66 +8,18 @@
 
 
 ## 🧠 About Me
-I'm a **FullStack Developer** with strong focus on **fronted development using Angular.** I enjoy building scalable, maintainable, and user centered web applications with clean architecture and modern develpment practices. My background in **Mechanical Engineering** helped me develop strong and analytical thinking and problem-solving skills, which I now apply to software development and product building. 
-I love merging **logic and creativity** to craft web experiences that are both functional and visually appealing. Apassionate about technology, design, problem-solving and continuous learning.  
+A **mechanical engineer** with over three years of experience in the IT sector, specializing in **full-stack software development.** 
+His background in **Mechanical Engineering** helped to develop strong and analytical thinking and problem-solving skills, which now applies to software development and product building. He possesses proven skills in technical leadership, problem-solving, and effective collaboration, ensuring successful project delivery. He is passionate about staying up-to-date on the latest technologies and contributing to the development of the technical community.
 
-Currently, I work as a **freelancer**, with personal projects where I combine: 
-
-- ⚡ Modern frontend development 
-- 🧠 Clean and scalable architecture 
-- 🎨 UI/UX oriented interfaces 
-- 🚀 Web performance optimization 
-- 🔧 Backend integration and APIs
-
-> Passionate about transforming ideas into functional and impactful digital experiences, technology, design, problem-solving and continuous learning.  
-
-> 💡 My goal: keep improving, building meaningful projects, and standing out with clean, efficient code.
-
-<!-- 
-  Santiago Marchena | Full-Stack Developer | Node.js, Angular, TypeScript, MongoDB
-  Portfolio | Freelance Developer | UI/UX Optimization | Web Performance
--->
+> Passionate about transforming ideas into functional and impactful digital experiences, technology, design, problem-solving and continuous learning. 💡 My goal: keep improving, building meaningful projects, and standing out with clean, efficient code.
 
 ## 💻 Tech Stack
 <p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,mysql,docker,jquery,npm,vue,java,spring,dotnet,html,css,bootstrap,py,git,github,figma,vscode,bash,materialui,postman,ai&perline=11" />
+    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,sqlserver,mysql,docker,jquery,npm,vue,java,spring,dotnet,html,css,bootstrap,tailwind,daisyui,py,git,github,figma,vscode,bash,materialui,postman,ai&perline=11" />
   </a>
 </p>
-
-## 🚀 Current Focus
-
-- 🔥 Building scalable and maintainable frontend applications with **Angular**, focusing on component architecture, reusable UI patterns, routing strategies, lazy loading, and state management.
-
-- 🧩 Writing cleaner and more robust applications using **TypeScript**, applying strong typing, modular structures, and best practices to improve maintainability and scalability.
-
-- 🌐 Developing and integrating RESTful APIs with **Node.js** and **Express**, improving communication between frontend and backend services in fullstack applications.
-
-- 🗄 Designing efficient database structures with **MongoDB**, including data modeling, CRUD operations, aggregation pipelines, and backend optimization strategies.
-
-- ⚡ Improving web performance through optimized rendering, lazy loading, code splitting, responsive design, and better frontend architecture decisions.
-
-- 🎨 Creating modern and responsive user interfaces with a strong focus on **UI/UX**, accessibility, usability, and clean visual design.
-
-- 🧠 Deepening my understanding of software architecture, scalable project structures, and modern development workflows used in production-level applications.
-
-- 🔧 Working with tools and workflows such as Git, GitHub, Postman, and modern frontend tooling to streamline development and collaboration processes.
-
-- 📚 Continuously learning modern Angular ecosystem features such as standalone components, Signals, RxJS patterns, and advanced frontend optimization techniques.
-
-- 🚀 Building personal and freelance projects that combine business logic, clean code, performance, and real-world problem solving.
-
-
-
-## 🔥 What I'm Working On
- - 🚀 Developing scalable fullstack applications using **Angular**, **Node.js**, and **MongoDB**, with a strong focus on clean architecture and maintainable code. 
- - ⚡ Building modern frontend experiences with **Angular** using reusable components, modular architecture, lazy loading, and responsive UI patterns. 
- - 🧩 Improving application structure and scalability through **TypeScript**, component-driven development, and modern frontend best practices. 
- - 🌐 Integrating RESTful APIs and backend services to create efficient and seamless fullstack solutions. 
- - 🎨 Designing responsive and user-centered interfaces focused on usability, accessibility, and performance optimization. 
- - 📚 Continuously expanding my expertise in the Angular ecosystem, including advanced state management, RxJS patterns, standalone components, and frontend performance strategies. 
- - 💼 Growing my portfolio through freelance and real-world projects that combine business logic, modern UI development, and scalable application design.
 
 <div align="center">
 
