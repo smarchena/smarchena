@@ -17,7 +17,7 @@ His background in **Mechanical Engineering** helped to develop strong and analyt
 <p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,sqlserver,mysql,docker,jquery,npm,vue,java,spring,dotnet,html,css,bootstrap,tailwind,py,git,github,figma,vscode,bash,materialui,postman,ai&perline=11" />
+    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,express,mongodb,mysql,docker,jquery,npm,vue,java,spring,dotnet,html,css,bootstrap,tailwind,py,git,github,figma,vscode,bash,materialui,postman,ai&perline=11" />
   </a>
 </p>
 
