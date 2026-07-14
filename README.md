@@ -7,13 +7,13 @@
 </p>
 
 
-## 🧠 About Me
+## About Me
 A **mechanical engineer** with over three years of experience in the IT sector, specializing in **full-stack software development.** 
 His background in **Mechanical Engineering** helped to develop strong and analytical thinking and problem-solving skills, which now applies to software development and product building. He possesses proven skills in technical leadership, problem-solving, and effective collaboration, ensuring successful project delivery. He is passionate about staying up-to-date on the latest technologies and contributing to the development of the technical community, transforming ideas into functional and impactful digital experiences, technology, design, problem-solving and continuous learning.
 
 > 💡 My goal: keep improving, building meaningful projects, and standing out with clean, efficient code.
 
-## 💻 Tech Stack
+## Tech Stack
 <p align="center"><b>Languages & Tools I use:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,42 +22,33 @@ His background in **Mechanical Engineering** helped to develop strong and analyt
 </p>
 
 <div align="center">
-
-<table style="background-color:#1a1a1a;border-radius:10px;padding:10px;">
-<tr>
-  <td align="center" width="250">
-  <img src="https://skillicons.dev/icons?i=angular" width="65"/><br>
-  <b>Angular</b><br>
-  <sub>Frontend architecture, reusable components, routing, state management, lazy loading, and scalable application development.</sub>
-</td>
-<td align="center" width="250">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>
-  <b>Node.js</b><br>
-  <sub>REST API development, backend integration, authentication flows, and fullstack application logic.</sub>
-</td>
-<td align="center" width="250">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
-  <b>MongoDB</b><br>
-  <sub>Database modeling, collections design, CRUD operations, and scalable backend data management.</sub>
-</td>
-</tr>
-</table>
-
+  <table style="background-color:#1a1a1a;border-radius:10px;padding:10px;">
+    <tr>
+      <td align="center" width="250">
+        <img src="https://skillicons.dev/icons?i=angular" width="65"/><br>
+        <b>Angular</b><br>
+        <sub>Frontend architecture, reusable components, routing, state management, lazy loading, and scalable application development.</sub>
+      </td>
+      <td align="center" width="250">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>
+        <b>Node.js</b><br>
+        <sub>REST API development, backend integration, authentication flows, and fullstack application logic.</sub>
+      </td>
+      <td align="center" width="250">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
+        <b>MongoDB</b><br>
+        <sub>Database modeling, collections design, CRUD operations, and scalable backend data management.</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 🧮 Contribution Summary
+## Contribution Summary
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=smarchena&theme=transparent&background=0D1117&ring=9370DB&fire=FFD700&currStreakLabel=32CD32&sideLabels=32CD32&sideNums=FFD700&currStreakNum=FFD700&hide_border=false" alt="GitHub Streak Stats"/>
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=smarchena&theme=dark&border_radius=5&mode=weekly" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=smarchena&theme=dark&background=0D1117&ring=9370DB&fire=FFD700&currStreakLabel=32CD32&sideLabels=32CD32&sideNums=FFD700&currStreakNum=FFD700&hide_border=false&border_radius=5&mode=weekly" alt="GitHub Streak Stats"/>
 </p>
 
-## 📫 Reach me at:
+## Reach me at:
 <p align="center">
   <a href="https://www.linkedin.com/in/santiagomarchena" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" style="transition: transform 0.3s;"/>
