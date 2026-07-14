@@ -52,7 +52,9 @@ His background in **Mechanical Engineering** helped to develop strong and analyt
   <img src="https://streak-stats.demolab.com/?user=smarchena&theme=transparent&background=0D1117&ring=9370DB&fire=FFD700&currStreakLabel=32CD32&sideLabels=32CD32&sideNums=FFD700&currStreakNum=FFD700&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smarchena&theme=radical" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=smarchena&theme=dark&border_radius=5&mode=weekly" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 📫 Reach me at:
